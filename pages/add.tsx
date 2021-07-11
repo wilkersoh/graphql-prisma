@@ -1,4 +1,4 @@
-import { gql, GraphQLClient, request } from "graphql-request";
+import { gql, GraphQLClient } from "graphql-request";
 import React from "react";
 import { useForm } from "react-hook-form";
 
